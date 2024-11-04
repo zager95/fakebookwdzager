@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+   <link rel="stylesheet" href="style.css">
+<style>
+body  {
+  background-image: url("https://c.wallhere.com/photos/13/77/2500x1563_px_clouds_Dark_Fall_forest_Germany_lake_landscape-698845.jpg!d");
+  background-color: #CCCCCC;
+}
+</style>
+</head>
+<body>
+   <h1 class="green big">Miha Zager</h1>
+   <h2 id="blue">About me</h2>
+   <p style="background-color:orange;">I am a gastronomic tourism technician. I did an internship in my last year of high school at TIC Velenje, after high school I con􏰁nued my studies in Ljubljana at Department of Tex􏰁le and Clothing Engineering (VS) at the Faculty of Science and Technology. In 2016, I also started working through the student service, mostly in hospitality industry like Parliament pub un􏰁l 2018, a􏰀er which I immediately started with student work at the Triglav Sports Center in Bežigrad as a waiter, where I stopped working in 2020 to apply for my first full􏰁me job in the Slovenian army. A􏰀er comple􏰁ng basic training in the army, I started by working as a soldier in the Celje barracks and then in 2023 I was transferred to Postojna. This year I passed two licenses for classical and sports massage and at the same 􏰁me I am a􏰂ending a higher school for wellness. In addi􏰁on, I am ac􏰁vely working as a masseur. I have three years of expirience in selling various products such as souvenirs, various cosme􏰁c products and work in a gi􏰀 shop. I speak fluent English and fairly good Croa􏰁an. I have basic knowledge of Microso􏰀 Office Word, Powerpoint, Excel. I am an enthusias􏰁c lover of nature, sports and animals, and in my spare 􏰁me I find myself in to the company of the closest ones. I am happy to work with people because I also see the poten􏰁al for personal growth.
+</p>
+
+   <h2 id="orange">Work experience
+</h2>
+   <h6 id="white"><li>waiter</li></h6>
+   <h6 id="white"><li>office receptionist</li></h6>
+   <h6 id="white"><li>army soldier</li></h6>
+   <h6 id="white"><li>masseur</li></h6>
+   <h6 id="white"><li>salesman at a gas station</li></h6>
+
+   <h2 id="red">Languages</h2>
+   <h6 id="white"><li>slovenian</li></h6>
+   <h6 id="white"><li>croatian</li></h6>
+   <h6 id="white"><li>english</li></h6>
+   <h6 id="white"><li>german</li></h6>
+
+
+   <img src="https://scontent.fblq2-1.fna.fbcdn.net/v/t39.30808-6/369785275_10225555745659671_3976273259465750782_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=IJuCtykEZq0Q7kNvgEBd-fU&_nc_zt=23&_nc_ht=scontent.fblq2-1.fna&_nc_gid=AZGZdGcJTMfXgCq1S2sBOcG&oh=00_AYCO31gAoCEj7cih5AcFh3NAJITRdsSYqNG7t0UCKO3aDA&oe=6729CE67"
+        width="200"
+        hight="400"
+         class="image">
+<br>
+
+   <a id="white" href="https://www.facebook.com/miha.zager">Facebook link</a>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
